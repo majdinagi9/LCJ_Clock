@@ -1,0 +1,27 @@
+#clock { 
+  font-size: 150px; 
+  width: 900px; 
+  margin: 450px;
+  text-align: center; 
+  border: 2px solid gold; 
+  border-radius: 20px; 
+  color: gold;
+}
+#LCJ { 
+  font-size: 100px; 
+  width: 1000px; 
+  margin: auto;
+  text-align: center; 
+  color: gold;
+}
+body{
+ background-image:  url("yearup.png");
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
